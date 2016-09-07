@@ -85,14 +85,14 @@ FTP 站点类似于云盘，我们可以对 FTP 站点进行文件的上传、�
 ###轻量编辑器
 与 Windows 自带的记事本相比，这类编辑器由于提供了代码高亮、自动补全等功能，更适合写代码。目前，我们将使用这类编辑器进行简单的开发。
 
-- [Atom](https://atom.io/)
-- [VS code](https://code.visualstudio.com/)  
-- [Editplus](https://www.editplus.com/)  
+- [Atom](https://atom.io/) `推荐使用` 免费，Github 出品，功能大而全，扩展性强。
+- [VS code](https://code.visualstudio.com/) `推荐使用` 免费，微软出品，扩展性逊于前一个编辑器，但是性能不俗。
+- [Editplus](https://www.editplus.com/) 
 
 ###IDE（集成开发环境）  
 如果说轻量级编辑器是轻便的“手枪”，那么集成开发环境就是强大的“火炮”。它为代码编写提供了极为完善的环境，我们将在以后的学习中用到。
 
-- [Intellij IDEA](https://www.jetbrains.com/idea/) `推荐使用`
+- [Intellij IDEA](https://www.jetbrains.com/idea/) `推荐使用` 功能丰富，将是大家未来编写程序的主力。
 - [Eclipse](https://www.eclipse.org/) 
 
 <h2 id='6'>第六步 写一个 Java 小程序</h2>
