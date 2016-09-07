@@ -80,7 +80,7 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 这类软件缺少IDE的自动补全等功能，但适用于其他编程语言,比较适合快速查看程序，编写代码量不大的程序，对程序进行较小的修改。  
 
 ###IDE（集成开发环境）：  
-[intellij idea](https://www.jetbrains.com/idea/)  请使用此IDE进行期中，期末的Project开发，此IDE会在多门课中使用到，请认真学习其使用方法。
+[intellij idea](https://www.jetbrains.com/idea/)  请使用此IDE进行期中，期末的Project开发，此IDE会在多门课中使用到，请认真学习其使用方法。  
 [eclipse](https://www.eclipse.org/)  传统java开发软件，常见于各大公司  
 请在FTP的Materials文件夹下载Atom和intellij进行安装（也可登陆各软件官网下载）
 
@@ -113,9 +113,9 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 在命令行中继续输入
 `java Helloworld`
 输入此命令后如正确运行，会产生如下结果：  
-![image](https://cloud.githubusercontent.com/assets/6169077/18314616/61817b94-7546-11e6-8201-57683c5e2433.png)
+![image](https://cloud.githubusercontent.com/assets/6169077/18314616/61817b94-7546-11e6-8201-57683c5e2433.png)  
 
-
+```请注意 课后请在自己的电脑上安装java1.8和intellij，并为java1.8配置好环境变量```
 
 
 
