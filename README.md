@@ -69,7 +69,7 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-a/syllabus/issues/1)及[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)。
 
 <h2 id='4'>第四步 下载安装JAVA1.8并配置环境变量</h2>
-[java 1.8](http://www.java.com/zh_CN/download/win10.jsp)请在FTP的Materials文件夹或者java官网下载java1.8安装包并安装。
+[java 1.8](http://www.java.com/zh_CN/download/win10.jsp)请在FTP的Materials文件夹或者java官网下载java1.8安装包并安装。  
 配置环境变量请参考此链接：http://jingyan.baidu.com/article/f96699bb8b38e0894e3c1bef.html
 
 <h2 id='5'>第五步 JAVA编辑器介绍</h2>
@@ -87,11 +87,11 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 <h2 id='6'>第六步 写一个JAVA小程序</h2>
 首先，请在D盘自己的文件夹下新建一个文本文件（txt格式），打开。  
 粘贴上以下内容：  
-`public class HelloWorld {
-    //输出一行字符串“Hello World!”
-    public static void main(String[] args) {
-    System.out.println("Hello World!");
-    }
+`public class HelloWorld {  
+    //输出一行字符串“Hello World!”  
+    public static void main(String[] args) {  
+    System.out.println("Hello World!");  
+    }  
 }`  
 保存并将文件名修改为HelloWorld.java  
 ![image](https://cloud.githubusercontent.com/assets/6169077/18313123/af429130-753f-11e6-8ded-e23f5e8b3104.png)  
