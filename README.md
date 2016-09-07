@@ -2,21 +2,18 @@
 了解java开发基础知识  熟悉相关软件
 
 ##目录
-[1.创建一个自己的文件夹](#1)
-[1.创建一个自己的文件夹](#1)
-[1.创建一个自己的文件夹](#1)
-[1.创建一个自己的文件夹](#1)
-2.学习使用软件学院FTP
-3.注册github账号
-4.下载安装JAVA1.8并配置环境变量
-5.JAVA编辑器介绍
-6.写一个JAVA小程序
+[1.创建一个自己的文件夹](#1)  
+[2.学习使用软件学院FTP](#2)  
+[3.注册github账号](#3)  
+[4.下载安装JAVA1.8并配置环境变量](#4)  
+[5.JAVA编辑器介绍](#5)  
+[6.写一个JAVA小程序](#6)  
 
 <h2 id='1'>第一步 创建一个自己的文件夹</h2>
 请在机房电脑的D盘下创建一个以自己学号为名的文件夹。 例如：16302010001  
 ```请注意 本机房电脑每次开机会重置C盘，想保存在本电脑的内容请放在D盘自己的文件夹下，助教和其他工作人员不会对此文件夹进行查看。```
 
-## 第二步 学习使用软件学院FTP
+<h2 id='2'>第二步 学习使用软件学院FTP</h2>
 FTP（File Transfer Protocol，文件传输协议）是一种实现计算机之间文件传输的工具。软件学院的FTP上有往届所有专业课程的课程资料，学生也可以通过FTP上交作业。  
 
 ###进入FTP
@@ -36,7 +33,7 @@ FTP（File Transfer Protocol，文件传输协议）是一种实现计算机之�
 向FTP某文件夹上传文件时，请复制本地你要上传的文件，粘贴在对应文件夹下等待上传即可。  
 ```请注意 软件学院FTP系统架设在复旦内网中，在外网无法访问（例如南区、张江校区和校外）。笔记本只要接入校园网WIFI也可访问FTP```  
 
-## 第三步 注册github账号
+<h2 id='3'>第三步 注册github账号</h2>
 
 ### GitHub是什么
 
@@ -71,11 +68,11 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 
 熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-a/syllabus/issues/1)及[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)。
 
-## 第四步 下载安装JAVA1.8并配置环境变量
+<h2 id='4'>第四步 下载安装JAVA1.8并配置环境变量</h2>
 [java 1.8](http://www.java.com/zh_CN/download/win10.jsp)请在FTP的Materials文件夹下下载并安装  
 配置环境变量请参考此链接：http://jingyan.baidu.com/article/f96699bb8b38e0894e3c1bef.html
 
-## 第五步 JAVA编辑器介绍
+<h2 id='4'>第五步 JAVA编辑器介绍</h2>
 轻量编辑器：  
 [Atom](https://atom.io/)  
 [VS code](https://code.visualstudio.com/)  
@@ -87,7 +84,7 @@ IDE（集成开发环境）：
 [eclipse](https://www.eclipse.org/)传统java开发软件，常见于各大公司  
 请在FTP的Materials文件夹下下载Atom和intellij进行安装
 
-## 第六步 写一个JAVA小程序
+<h2 id='4'>第六步 写一个JAVA小程序</h2>
 
 
 
