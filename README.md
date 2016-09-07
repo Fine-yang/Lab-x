@@ -10,4 +10,5 @@ FTP（File Transfer Protocol，文件传输协议）是一种实现计算机之�
 
 ###进入FTP
 打开我的电脑，在地址栏输入FTP地址：
-[软件学院ftp]: (ftp://10.132.141.33)
+[简书](http://jianshu.io)
+[简书2]: (ftp://10.132.141.33)
