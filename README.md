@@ -72,7 +72,7 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 [java 1.8](http://www.java.com/zh_CN/download/win10.jsp)请在FTP的Materials文件夹或者java官网下载java1.8安装包并安装。
 配置环境变量请参考此链接：http://jingyan.baidu.com/article/f96699bb8b38e0894e3c1bef.html
 
-<h2 id='4'>第五步 JAVA编辑器介绍</h2>
+<h2 id='5'>第五步 JAVA编辑器介绍</h2>
 ###轻量编辑器：  
 [Atom](https://atom.io/)  
 [VS code](https://code.visualstudio.com/)  
@@ -84,7 +84,7 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 [eclipse](https://www.eclipse.org/)  传统java开发软件，常见于各大公司  
 请在FTP的Materials文件夹下载Atom和intellij进行安装（也可登陆各软件官网下载）
 
-<h2 id='4'>第六步 写一个JAVA小程序</h2>
+<h2 id='6'>第六步 写一个JAVA小程序</h2>
 首先，请在D盘自己的文件夹下新建一个文本文件（txt格式），打开。  
 粘贴上以下内容：  
 `public class HelloWorld {
