@@ -87,12 +87,12 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 <h2 id='6'>第六步 写一个JAVA小程序</h2>
 首先，请在D盘自己的文件夹下新建一个文本文件（txt格式），打开。  
 粘贴上以下内容：  
-`public class HelloWorld {  
-    //输出一行字符串“Hello World!”  
-    public static void main(String[] args) {  
-      System.out.println("Hello World!");  
-    }  
-}`    
+  public class HelloWorld {  
+      //输出一行字符串“Hello World!”  
+      public static void main(String[] args) {  
+        System.out.println("Hello World!");  
+      }  
+  }     
 保存并将文件名修改为HelloWorld.java  
 ![image](https://cloud.githubusercontent.com/assets/6169077/18313123/af429130-753f-11e6-8ded-e23f5e8b3104.png)  
 请点击是  
