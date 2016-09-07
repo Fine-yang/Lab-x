@@ -11,3 +11,15 @@ FTP（File Transfer Protocol，文件传输协议）是一种实现计算机之�
 ###进入FTP
 打开我的电脑，在地址栏输入FTP地址：
 > ftp://10.132.141.33
+![address](https://github.com/java-b/lab0/blob/master/1x.png)  
+
+在弹出的对话框里输入账号密码
+>用户名：ss  
+>密码：ss
+![login](https://github.com/java-b/lab0/blob/master/2x.png)  
+
+进入class/16/程序设计（陈荣华），此为本课程FTP目录，课程相关的文件会放置在此文件夹下，每次lab和project做好后需要您上传到upload文件夹下对应的目录中
+
+
+
+
