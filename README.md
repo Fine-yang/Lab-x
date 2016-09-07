@@ -59,7 +59,7 @@ FTP 站点类似于云盘，我们可以对 FTP 站点进行文件的上传、�
 
 **课程的 Github 地址**：https://github.com/java-b
 
-- 每个布置的Lab（上机作业）和Project都会拥有一个单独的项目仓库。以这个Lab为例，它的主页为：https://github.com/java-b/lab0
+- 每个布置的Lab（上机作业）和Project都会拥有一个单独的项目仓库。以这个Lab为例，它的主页为：https://github.com/java-b/Lab-1
 - 在课程的 [讨论区](https://github.com/java-b/Forum) 中，你可以找到一些课程的推荐阅读，也可以提问、交流。助教看到问题之后将会第一时间回复。
 `注意` **课程成绩中的平时分与讨论活跃度相关。**   
 
