@@ -1,13 +1,13 @@
 # lab0
-了解java开发基础知识  熟悉相关软件
+了解开发基础知识  熟悉java开发相关软件 写一个java最基础的小程序
 
 ##目录
-[1.创建一个自己的文件夹](#1)  
-[2.学习使用软件学院FTP](#2)  
-[3.注册github账号](#3)  
-[4.下载安装JAVA1.8并配置环境变量](#4)  
-[5.JAVA编辑器介绍](#5)  
-[6.写一个JAVA小程序](#6)  
+[1. 创建一个自己的文件夹](#1)  
+[2. 学习使用软件学院FTP](#2)  
+[3. 注册github账号](#3)  
+[4. 下载安装JAVA1.8并配置环境变量](#4)  
+[5. JAVA编辑器介绍](#5)  
+[6. 写一个JAVA小程序](#6)  
 
 <h2 id='1'>第一步 创建一个自己的文件夹</h2>
 请在机房电脑的D盘下创建一个以自己学号为名的文件夹。 例如：16302010001  
@@ -73,18 +73,22 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 配置环境变量请参考此链接：http://jingyan.baidu.com/article/f96699bb8b38e0894e3c1bef.html
 
 <h2 id='4'>第五步 JAVA编辑器介绍</h2>
-轻量编辑器：  
+###轻量编辑器：  
 [Atom](https://atom.io/)  
 [VS code](https://code.visualstudio.com/)  
 [Editplus](https://www.editplus.com/)  
 这类软件缺少IDE的自动补全等功能，但适用于其他编程语言,比较适合快速查看程序，编写代码量不大的程序，对程序进行较小的修改。  
 
-IDE（集成开发环境）：  
-[intellij idea](https://www.jetbrains.com/idea/)请使用此IDE进行期中，期末的Project开发  
-[eclipse](https://www.eclipse.org/)传统java开发软件，常见于各大公司  
-请在FTP的Materials文件夹下下载Atom和intellij进行安装
+###IDE（集成开发环境）：  
+[intellij idea](https://www.jetbrains.com/idea/)  请使用此IDE进行期中，期末的Project开发，此IDE会在多门课中使用到，请认真学习其使用方法。
+[eclipse](https://www.eclipse.org/)  传统java开发软件，常见于各大公司  
+请在FTP的Materials文件夹下载Atom和intellij进行安装
 
 <h2 id='4'>第六步 写一个JAVA小程序</h2>
+首先，请在D盘自己的文件夹下新建一个文本文件，打开。  
+粘贴上以下内容：  
+
+
 
 
 
