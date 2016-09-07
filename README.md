@@ -42,11 +42,12 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 
 在期末Project中，我们或许会试着使用GitHub来管理一个项目的开发。但这已经远远超出了我们当前的要求。**目前，我们使用GitHub来查看课程文档和讨论。**
 
-我们将这门课程托管在GitHub上，所有课程材料都可以在[课程主页](https://github.com/orgs/java-b)中找到。具体地来说：
+我们将这门课程托管在GitHub上，所有课程材料都可以在[课程主页](https://github.com/java-b/Forum)中找到。具体地来说：
 
-- 在课程的[大纲仓库](https://github.com/java-a/syllabus)中，你可以找到一些课程的推荐阅读。
+- 在课程的[大纲仓库](https://github.com/java-b/Forum)中，你可以找到一些课程的推荐阅读。
 
-- 在课程的[大纲仓库的讨论区](https://github.com/java-a/syllabus/issues)中，你可以提出自己的问题，或是回答其他同学的问题。助教看到问题之后将会第一时间回复，同时也欢迎同学们在上面回复其他同学的问题。最终成绩中的平时分与讨论相关。
+- 在课程的[大纲仓库的讨论区](https://github.com/java-b/Forum/issues)中，你可以提出自己的问题，或是回答其他同学的问题。助教看到问题之后将会第一时间回复，同时也欢迎同学们在上面回复其他同学的问题。最终成绩中的平时分与讨论相关。
+```请注意 平时私信老师和助教与平时分无关```   
 
 - 每个布置的Lab（上机作业）和Project都会拥有一个单独的项目仓库。以这个Lab为例，它的主页为：
 
@@ -56,13 +57,12 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 
 ### 如何使用GitHub
 
-1. 注册GitHub账号。选择你喜欢的用户名、学号邮箱及密码，点击 `Sign up for GitHub` 前往注册。
-   ![image](https://cloud.githubusercontent.com/assets/7262715/18254555/665afc4c-73d1-11e6-8db0-be555d8e75e2.png)
+注册GitHub账号。选择你喜欢的用户名、学号邮箱及密码，点击 `Sign up for GitHub` 前往注册。
+![image](https://cloud.githubusercontent.com/assets/7262715/18254555/665afc4c-73d1-11e6-8db0-be555d8e75e2.png)
 
-2. 前往课程主页：https://github.com/java-b。
+前往课程主页：https://github.com/java-b。
 
-
-1. 熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-a/syllabus/issues/1)及[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)。
+熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-a/syllabus/issues/1)及[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)。
 
 
 
