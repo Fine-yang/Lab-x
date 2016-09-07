@@ -11,7 +11,6 @@ FTP（File Transfer Protocol，文件传输协议）是一种实现计算机之�
 ###进入FTP
 打开我的电脑，在地址栏输入FTP地址： ftp://10.132.141.33  
 
-![address](https://github.com/java-b/lab0/blob/master/1x.png) 
 ![1x](https://cloud.githubusercontent.com/assets/6169077/18310556/a7004386-7531-11e6-99c0-4918f8976bfe.png)
 
 在弹出的对话框里输入账号密码
